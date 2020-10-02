@@ -98,13 +98,11 @@ function CurlPostURL($url, $password, $post_fields, $method,$httpheader){
 <body>
     <main id='ContentArea'>
         <article class='IRContent'>
-        <h1 id='ir-title'>பாபர் மசூதி இடிப்பு வழக்கு: பாஜக மூத்த தலைவர்கள் எல்.கே.அத்வானி, உமாபாரதி, மனோகர் ஜோஷி நீதிமன்றத்தில் ஆஜராக வாயப்பில்லை</h1>
+         <h1 id='ir-title'>OnePlus 8T will reportedly be taller and wider than the OnePlus 8 despite</h1>
       
             <span id='ir-text-3'>
             <div class='immersive-reader-button' data-button-style="icon" onclick='launchImmersiveReaderFromInlineHtml("check")'></div>          
-                <p lang="ta-IN" id="check" >பாபர் மசூதி இடிப்பு வழக்கில் இன்று லக்னோ சிறப்பு நீதிமன்றம் தீர்ப்பு அளிக்க இருக்கும் நிலையில், பாஜக மூத்த தலைவர்கள் எல்.கே.அத்வானி, முரளி மனோகர் ஜோஷி, உமா பாரதி, கல்யாண் சிங் ஆகியோர் நேரில் ஆஜராக வாய்ப்பில்லை என்று தகவல்கள் தெரிவிக்கின்றன.
-
-உத்தரப் பிரதேச மாநிலம் அயோத்தியில் இருந்த பாபர் மசூதி, கடந்த 1992-ம் ஆண்டு டிசம்பர் 6-ம் தேதி கரசேவகர்களால் இடிக்கப்பட்டது. தொடக்கத்தில் மாநில போலீஸார் விசாரித்து வந்த இந்த வழக்கு, பின்னர் சிபிஐயிடம் ஒப்படைக்கப்பட்டது.</p>
+<p lang="en-IN" id="check" >OnePlus 8T will reportedly be taller and wider than the OnePlus 8 despite having the same screen size of 6.55-inch. As per a tweet by a tipster, the OnePlus 8T will measure 162.8 x 75.5 x 8.4 mm. In comparison, the OnePlus 8 measures 160.20x72.90x8mm. Further, the tipster claims that the upcoming smartphone is 9.3mm thick with the camera bump. The company CEO Pete Lau had already confirmed that the handset will come with a screen-to-body ratio of 91.9 percent.</p>
             </span>
         </article>
     </main>
