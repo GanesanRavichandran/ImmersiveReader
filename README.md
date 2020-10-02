@@ -19,6 +19,10 @@ subdomain='';                        // Eg : immersivereader<br>
 Then Enjoy Using It<br>
 Given Sample Code in PHP 
 
+Sample Images
 
+<img src="samplepics/immersive reader 1.JPG">
+
+<img src="samplepics/immersive reader 2.JPG">
 
 
